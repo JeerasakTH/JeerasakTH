@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@6b587488-d9ed-45e7-9018-b2af0285d01b/ab624c3e-830b-4810-9244-c969355211b6.png" /></a>
-<img src="https://wakatime.com/badge/github/JeerasakTH/Tea-Cozy.svg" alt="wakatime" />}[https://wakatime.com/badge/github/JeerasakTH/Tea-Cozy]</a>
+<img src="https://wakatime.com/badge/github/JeerasakTH/Tea-Cozy.svg" alt="wakatime" />
