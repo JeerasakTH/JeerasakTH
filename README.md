@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JeerasakTH/JeerasakTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@6b587488-d9ed-45e7-9018-b2af0285d01b/1c2a0956-f300-41c6-be3e-f84d6366097c.png" /></a>
