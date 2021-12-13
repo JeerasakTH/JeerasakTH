@@ -16,4 +16,5 @@
 
 - 📫 How to reach me: <br /><br />
 [<img src="https://img.shields.io/badge/LINE-chiefguy-brightgreen">](https://line.me/ti/p/gEvhC82dVq)
+[<img src="https://img.shields.io/badge/Facebook-chiefguy-brightgreen">](https://line.me/ti/p/gEvhC82dVq)
 [<img src="https://img.shields.io/badge/Email-Jeerasakg01%40Gmail.com-orange">](mailto:jeerasakg01@gmail.com)
