@@ -13,7 +13,6 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@6b587488-d9ed-45e7-9018-b2af0285d01b/ab624c3e-830b-4810-9244-c969355211b6.png" /></a>
 
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/Telegram-%40moepoi-blue">](https://t.me/moepoi)
+- 📫 How to reach me:
 [<img src="https://img.shields.io/badge/LINE-moepoi-brightgreen">](https://line.me/ti/p/~moepoi)
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
-[<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://moepoi.dev)
+[<img src="https://img.shields.io/badge/Email-Jeerasakg01%40Gmail.com-orange">](mailto:jeerasakg01@gmail.com)
