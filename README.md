@@ -11,9 +11,11 @@
 
 - 📖 My project
 ---
-[Links](https://myfirstrecipes.netlify.app/)
-[Links](https://reddit-ui-jth.netlify.app/)
-[Links](https://movie-app-jth.netlify.app/)
+[Recipes](https://myfirstrecipes.netlify.app/)
+<br />
+[Reddit-UI](https://reddit-ui-jth.netlify.app/)
+<br />
+[Movie-app](https://movie-app-jth.netlify.app/)
 
 - ⚡ Fun fact: 
 
