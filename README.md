@@ -1,5 +1,6 @@
 # Hi there 👋
 ---
+
 - 😄 I'm Guy (just a nickname)
 - 🌱 I’m currently learning: <br /><br />
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
