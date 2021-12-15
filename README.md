@@ -22,13 +22,13 @@
 
 💻 Status
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeerasakth&layout=compact)](https://github.com/jeerasakth/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeerasakth&layout=compact)]
 
 <br />
 
 👨‍💻 This week, I spent my time on:
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeerasakth)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeerasakth)]
 
 <br /><br />
 
