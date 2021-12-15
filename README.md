@@ -10,24 +10,24 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-<br /><br /><br />
+<br /><br />
 
 ### 📖 My project: <br /><br />
 - [Recipes](https://myfirstrecipes.netlify.app/) <br /><br />
 - [Reddit-UI](https://reddit-ui-jth.netlify.app/) <br /><br />
 - [Movie-app](https://movie-app-jth.netlify.app/) <br /><br />
 
-<br /><br /><br />
+<br /><br />
 
 ### 💻 Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeerasakth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br /><br /><br />
+<br /><br />
 
 ### 👨‍💻 This week, I spent my time on:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeerasakth)](https://github.com/anuraghazra/github-readme-stats)
 
-<br /><br /><br />
+<br /><br />
 
 ### 📫 How to reach me: <br /><br />
 [<img src="https://img.shields.io/badge/Facebook-Jeerasak G Todsungnern-blue">](https://www.facebook.com/jeerasak.todsungnern/)
