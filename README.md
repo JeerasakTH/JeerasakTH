@@ -9,8 +9,7 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-- 📖 My project
----
+- 📖 My project: <br /><br />
 [Recipes](https://myfirstrecipes.netlify.app/)
 <br />
 [Reddit-UI](https://reddit-ui-jth.netlify.app/)
