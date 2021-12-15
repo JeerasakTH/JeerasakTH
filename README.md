@@ -26,12 +26,6 @@
 
 <br />
 
-👨‍💻 This week, I spent my time on:
----
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeerasakth)]
-
-<br /><br />
-
 📫 How to reach me: <br /><br />
 ---
 [<img src="https://img.shields.io/badge/Facebook-Jeerasak G Todsungnern-blue">](https://www.facebook.com/jeerasak.todsungnern/)
