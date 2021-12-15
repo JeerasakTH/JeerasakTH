@@ -10,8 +10,9 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 <br />
 
-⚡ Fun fact: My passion came from the Start-Up (2020). After watching it I started to study coding and I liked it. <br />
+⚡ Fun fact: 
 ---
+My passion came from the Start-Up (2020). After watching it I started to study coding and I liked it. <br />
 
 <br />
 
