@@ -16,6 +16,9 @@
 
 - ⚡ Fun fact: 
 
+Status
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeerasakth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me: <br /><br />
