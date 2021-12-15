@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 😄 I'm Guy (just a nickname)
 - 🌱 I’m currently learning: <br /><br />
