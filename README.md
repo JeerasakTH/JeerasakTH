@@ -11,9 +11,9 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### 📖 My project: <br /><br />
-- [Recipes](https://myfirstrecipes.netlify.app/)
-- [Reddit-UI](https://reddit-ui-jth.netlify.app/)
-- [Movie-app](https://movie-app-jth.netlify.app/) 
+- [Recipes](https://myfirstrecipes.netlify.app/) <br /><br />
+- [Reddit-UI](https://reddit-ui-jth.netlify.app/) <br /><br />
+- [Movie-app](https://movie-app-jth.netlify.app/) <br /><br />
 
 ### 💻 Status
 ---
