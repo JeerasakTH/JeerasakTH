@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6b587488-d9ed-45e7-9018-b2af0285d01b/ab624c3e-830b-4810-9244-c969355211b6.png" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeerasakth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: <br /><br />
 [<img src="https://img.shields.io/badge/Facebook-Jeerasak G Todsungnern-blue">](https://www.facebook.com/jeerasak.todsungnern/)
