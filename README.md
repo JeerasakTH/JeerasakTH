@@ -10,13 +10,13 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 <br />
 
-⚡ Fun fact: 
+⚡ Fun fact: <br /> 
 ---
 My passion came from the Start-Up (2020). After watching it I started to study coding and I liked it. <br />
 
 <br />
 
-📖 My project: <br /><br />
+📖 My project: <br />
 ---
 - [Recipes](https://myfirstrecipes.netlify.app/) <br /><br />
 - [Reddit-UI](https://reddit-ui-jth.netlify.app/) <br /><br />
@@ -24,13 +24,13 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 
 <br />
 
-💻 Status
+💻 Status <br />
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeerasakth&layout=compact)]
 
 <br />
 
-📫 How to reach me: <br /><br />
+📫 How to reach me: <br />
 ---
 [<img src="https://img.shields.io/badge/Facebook-Jeerasak G Todsungnern-blue">](https://www.facebook.com/jeerasak.todsungnern/)
 [<img src="https://img.shields.io/badge/LINE-chiefguy-brightgreen">](https://line.me/ti/p/gEvhC82dVq)
