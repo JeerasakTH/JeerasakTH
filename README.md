@@ -30,9 +30,6 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 
 <br />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@thongchaiSH&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
-
-
 📫 How to reach me <br />
 ---
 [<img src="https://img.shields.io/badge/Facebook-Jeerasak G Todsungnern-blue">](https://www.facebook.com/jeerasak.todsungnern/)
