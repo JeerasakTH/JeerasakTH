@@ -16,7 +16,7 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 
 <br />
 
-📖 My project <br />
+📖 My project developed by React <br />
 ---
 - [Recipes](https://myfirstrecipes.netlify.app/) <br /><br />
 - [Reddit-UI](https://reddit-ui-jth.netlify.app/) <br /><br />
