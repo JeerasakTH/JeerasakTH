@@ -47,6 +47,6 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 
 📫 How to reach me <br />
 ---
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/jeerasak.todsungnern/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg">](https://line.me/ti/p/gEvhC82dVq)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:jeerasakg01@gmail.com)
+[<img alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/jeerasak.todsungnern/)
+[<img alt="Line" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg">](https://line.me/ti/p/gEvhC82dVq)
+[<img alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:jeerasakg01@gmail.com)
