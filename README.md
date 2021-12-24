@@ -26,7 +26,7 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />]
@@ -46,6 +46,6 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 
 📫 How to reach me <br />
 ---
-[<img alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/jeerasak.todsungnern/) 
-[<img alt="Line" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg">](https://line.me/ti/p/gEvhC82dVq) 
-[<img alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:jeerasakg01@gmail.com)
+[<img style="padding-right:5px; alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/jeerasak.todsungnern/) 
+[<img style="padding-right:5px; alt="Line" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/line.svg">](https://line.me/ti/p/gEvhC82dVq) 
+[<img style="padding-right:5px; alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:jeerasakg01@gmail.com)
