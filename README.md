@@ -15,11 +15,11 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 
 📖 My project <br />
 ---
-- [Recipes](https://myfirstrecipes.netlify.app/) <br />
-- [Reddit-UI](https://reddit-ui-jth.netlify.app/) <br />
-- [Movie-app](https://movie-app-jth.netlify.app/) <br />
-- [NextJs-blog](https://nextjs-blog-r00ywp7p5-jeerasakth.vercel.app/) <br />
-- [Cryptoverse](https://cryptoverse-jth.netlify.app/)
+- [Recipes](https://myfirstrecipes.netlify.app/) (ReactJS) <br />
+- [Reddit-UI](https://reddit-ui-jth.netlify.app/) (ReactJS) <br />
+- [Movie-app](https://movie-app-jth.netlify.app/) (ReactJS & Redux) <br />
+- [NextJs-blog](https://nextjs-blog-r00ywp7p5-jeerasakth.vercel.app/) (NextJS) <br />
+- [Cryptoverse](https://cryptoverse-jth.netlify.app/) (ReactJS & Redux)
 
 <br />
 
