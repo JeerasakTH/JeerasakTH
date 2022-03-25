@@ -8,12 +8,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br />
 
-⚡ Fun fact <br /> 
----
-My passion came from the Start-Up (2020). After watching it I started to study coding and I liked it. <br />
-
-<br />
-
 📖 My project <br />
 ---
 - [Users-form](https://user-form-jth.netlify.app/) (ReactJS) <br />
@@ -23,6 +17,7 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 - [NextJs-blog](https://nextjs-blog-r00ywp7p5-jeerasakth.vercel.app/) (NextJS) <br />
 - [Cryptoverse](https://cryptoverse-jth.netlify.app/) (ReactJS & Redux) <br />
 - [CRUD-tutorial](https://github.com/JeerasakTH/CRUD-tutorial) (NodeJS & ExpressJS)
+- [Login-app](https://github.com/JeerasakTH/login-app) (NodeJS & ExpressJS & Mongoose)
 
 <br />
 
@@ -39,6 +34,7 @@ My passion came from the Start-Up (2020). After watching it I started to study c
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br />
 
