@@ -13,6 +13,7 @@
 - [CRUD-tutorial](https://github.com/JeerasakTH/CRUD-tutorial) (NodeJS & ExpressJS)
 - [Login-app](https://github.com/JeerasakTH/login-app) (NodeJS & ExpressJS & Mongoose)
 - [Natours](https://natours-jth.herokuapp.com/) (Pug & NodeJS & ExpressJS & Mongoose)
+- [Template-Go-MongoDB](https://github.com/JeerasakTH/template-go-mongodb) (Go & MongoDB)
 
 <br />
 
