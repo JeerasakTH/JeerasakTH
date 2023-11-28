@@ -10,11 +10,10 @@
 - [Movie-app](https://movie-app-jth.netlify.app/) (ReactJS & Redux) <br />
 - [NextJs-blog](https://nextjs-blog-r00ywp7p5-jeerasakth.vercel.app/) (NextJS) <br />
 - [Cryptoverse](https://cryptoverse-jth.netlify.app/) (ReactJS & Redux) <br />
-- [CRUD-tutorial](https://github.com/JeerasakTH/CRUD-tutorial) (NodeJS & ExpressJS)
-- [Login-app](https://github.com/JeerasakTH/login-app) (NodeJS & ExpressJS & Mongoose)
 - [Natours](https://github.com/JeerasakTH/natour) (Pug & NodeJS & ExpressJS & Mongoose)
 - [Template-Go-MongoDB](https://github.com/JeerasakTH/template-go-mongodb) (Go & MongoDB)
 - [Template-Go-Postgres](https://github.com/JeerasakTH/template-go-postgres) (Go & Postgres)
+- [The One Guy Shop](http://54.179.0.101:3000/) (React(TS) & NodeJS(TS)) [Client-Code](https://github.com/JeerasakTH/theoneguy-shop-client) &nbsp; [Server-Code](https://github.com/JeerasakTH/theoneguy-shop-server) 
 
 <br />
 
